@@ -1,2 +1,5 @@
-# algorithm_C-CPP
-learn algorithm 
+# Algorithm_C/CPP
+programming language.
+data structure.
+algorithms.
+
